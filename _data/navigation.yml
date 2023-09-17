@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "Home"
+    url: /about/ #" " #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Talks & Events"
+    url: /talks/
+  - title: "Family Roots"
+    url: /familyroots/
+  
